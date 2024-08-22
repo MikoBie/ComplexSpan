@@ -1,7 +1,6 @@
 # Psychopy Implementation of the Complex Span Task
 
-![Credits](https://zenodo.org/badge/doi/10.5281/zenodo.3529329.svg)
-
+This work was supported by funds from the Polish National Science Centre (project no. 2019/35/N/HS6/04318).
 
 ![](WM.gif)
 
